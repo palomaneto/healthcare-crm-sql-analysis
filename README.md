@@ -87,4 +87,4 @@ By combining appointments, treatments and billing information, SQL was used to c
 
 ## 👩‍⚕️ About Me
 
-I'm passionate about applying data analytics within healthcare. With a clinical background in dental nursing and an MSc in Health Informatics, I enjoy transforming healthcare data into meaningful insights that support operational and strategic decision-making.
+I'm passionate about applying data, systems and more data! With a clinical background and an MSc in Health Informatics, I enjoy transforming data into meaningful insights that support operational and strategic decision-making.
