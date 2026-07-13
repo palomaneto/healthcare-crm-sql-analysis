@@ -1,10 +1,10 @@
-# 🏥 Healthcare CRM SQL Analysis
+# Healthcare CRM SQL Analysis
 
 > Understanding patient engagement, retention and revenue through healthcare CRM analytics using MySQL.
 
 ---
 
-## 👋 Overview
+## Overview
 
 This project explores healthcare data from a Customer Relationship Management (CRM) perspective.
 
@@ -14,7 +14,7 @@ Using SQL, the project answers business questions that could support healthcare 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This project demonstrates how SQL can be used to:
 
@@ -44,7 +44,7 @@ This project demonstrates how SQL can be used to:
 
 ---
 
-## 📊 CRM Questions Answered
+## CRM Questions Answered
 
 - Which patients generate the greatest lifetime value?
 - Which patients return most frequently?
@@ -55,7 +55,7 @@ This project demonstrates how SQL can be used to:
 
 ---
 
-## 📈 Executive Summary
+## Executive Summary
 
 Analysis of the healthcare CRM database identified several important business insights.
 
@@ -65,7 +65,7 @@ By combining appointments, treatments and billing information, SQL was used to c
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Interactive Power BI dashboard
 - Patient churn prediction
@@ -76,7 +76,7 @@ By combining appointments, treatments and billing information, SQL was used to c
 
 ---
 
-## 💻 Technologies
+## Technologies
 
 - MySQL Workbench
 - SQL
