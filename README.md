@@ -87,4 +87,4 @@ By combining appointments, treatments and billing information, SQL was used to c
 
 ## 👩‍⚕️ About Me
 
-I'm passionate about applying data, systems and more data! With a clinical background and an MSc in Health Informatics, I enjoy transforming data into meaningful insights that support operational and strategic decision-making.
+I'm passionate about data, systems...and more data! With a clinical background and an MSc in Health Informatics, I enjoy transforming data into meaningful insights that support operational and strategic decision-making. Follow me as I strive to improve on skills and knowledge-base in real-time!
